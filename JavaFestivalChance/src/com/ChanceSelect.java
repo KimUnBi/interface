@@ -22,7 +22,7 @@ public class ChanceSelect {
 	private String[] mp3 = { this.getClass().getResource("resurrection.mp3").getPath(),
 			this.getClass().getResource("pass.mp3").getPath(),this.getClass().getResource("agent.mp3").getPath(),
 			this.getClass().getResource("failfail.mp3").getPath()
-			};
+			};   
 	private Random random = new Random();
 	private MP3Player mp3Player = new MP3Player();
 	
