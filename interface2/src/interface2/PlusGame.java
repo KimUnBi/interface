@@ -7,7 +7,7 @@ public class PlusGame implements Game {
 	private Random ran;
 	private int num1;
 	private int num2;
-
+//	private String[] operator = { "+", "-", "*", "/" };
 	public PlusGame() {
 
 	}
